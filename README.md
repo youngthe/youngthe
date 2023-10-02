@@ -6,7 +6,8 @@
 <br>
 
 ### : Project
-<div class="title">https://tipsweb3.com &nbsp;&nbsp;&nbsp; 2023.01.07 ~ 2023.05.29 &nbsp;&nbsp; 관리자 페이지 별도 존재</div>
+<div class="title_url">https://tipsweb3.com </div>
+<div class="title_since"> 2023.01.07 ~ 2023.05.29 &nbsp;&nbsp; 관리자 페이지 별도 존재</div>
 <br>
 <div class="content1"> 용도 : 코인 보상 커뮤니티 </div>
 <br>
@@ -17,7 +18,8 @@
 <br>
 <br>
 
-<div>https://qart.art &nbsp;&nbsp;&nbsp; 2023.03.20 ~ 2023.09.28 &nbsp;&nbsp;&nbsp; 관리자 페이지 별도 존재</div>
+<div class="title_url">https://qart.art</div>
+<div class="title_since">2023.03.20 ~ 2023.09.28 &nbsp;&nbsp;&nbsp; 관리자 페이지 별도 존재</div>
 <br>
 <div class="content1"> 용도 : 작가 본인의 작품을 판매</div>
 <br>
