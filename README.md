@@ -1,5 +1,5 @@
 ### stacks 👋
-<img src="https://img.shields.io/badge/Java-8A2BE2&logoColor=#FF160B"/>
+<img src="https://img.shields.io/badge/Java-FF160B&logoColor=#FF160B"/>
 
 
 
