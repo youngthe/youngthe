@@ -1,11 +1,11 @@
-### Stacks 
+### : Stacks 
 <!-- https://simpleicons.org -->
 
 <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-7ACB10?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/JPA-FFFF66"/>  <img src="https://img.shields.io/badge/Web3j-525C86"/> <img src="https://img.shields.io/badge/C-0099E5?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
 
 <br>
 
-### Project
+### : Project
 <div class="title">https://tipsweb3.com &nbsp;&nbsp;&nbsp; 2023.01.07 ~ 2023.05.29 &nbsp;&nbsp; 관리자 페이지 별도 존재</div>
 <br>
 <div class="content1"> 용도 : 코인 보상 커뮤니티 </div>
